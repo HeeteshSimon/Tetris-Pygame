@@ -19,3 +19,5 @@ Hence, made use **Python** to build this game, as it really easy to understand a
 Further Changes will be done soon to make the game look more efficient. Any developer who wants to contribute feel free to reach out. <br>
 Thanks! <br>
 GG
+
+![Tetris!](https://github.com/HeeteshSimon/Tetris-Pygame/blob/master/Tetris.gif)
